@@ -1,0 +1,7 @@
+aid: bwx-technologies
+url: https://raw.githubusercontent.com/api-evangelist/bwx-technologies/refs/heads/main/apis.yml
+modified: '2026-03-23'
+apis: []
+common:
+  - type: Website
+    url: https://www.bwx-technologies.com
