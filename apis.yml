@@ -12,7 +12,7 @@ tags:
   - Manufacturing
   - Company
 type: Index
-x-type: company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2026-03-23'
@@ -52,9 +52,9 @@ common:
     url: https://www.bwxt.com
   - type: Contact
     url: https://www.bwxt.com/contact/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.bwxt.com/privacy-policy/
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.bwxt.com/terms-of-use/
   - type: Investor Relations
     url: https://investors.bwxt.com
