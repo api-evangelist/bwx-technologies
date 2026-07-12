@@ -48,6 +48,8 @@ apis:
       is currently documented; the company publishes corporate, investor,
       careers, and newsroom web properties.
 common:
+  - type: DomainSecurity
+    url: security/bwx-technologies-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/bwx-technologies
   - type: Website
@@ -64,6 +66,8 @@ common:
     url: https://www.bwxt.com/careers/
   - type: Newsroom
     url: https://www.bwxt.com/media/
+  - type: Blog
+    url: https://www.bwxt.com/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
