@@ -28,10 +28,6 @@ BWX Technologies is a manufacturer of nuclear components and provider of nuclear
 
 ## APIs
 
-### BWX Technologies
-BWX Technologies manufactures nuclear components, reactors, and fuel, providing engineering, manufacturing, and field services for defense, commercial power, space, and medical markets. No public developer API is currently documented.
-
-**Human URL:** [https://www.bwxt.com](https://www.bwxt.com)
 
 ## Common Properties
 
