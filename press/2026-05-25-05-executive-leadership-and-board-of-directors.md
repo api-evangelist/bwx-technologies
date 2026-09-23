@@ -1,7 +1,9 @@
 ---
 title: Executive Leadership and Board of Directors
 url: https://investors.bwxt.com/corporate-governance/executive-leadership-board-of-directors
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"BWX Technologies" press release artificial intelligence'
 position: 5
 source: serpapi-google
