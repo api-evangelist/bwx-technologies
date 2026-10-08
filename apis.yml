@@ -49,6 +49,12 @@ description: >-
   operations.
 apis: []
 common:
+  - type: Plans
+    url: plans/bwx-technologies-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/bwx-technologies-rate-limits.yml
+  - type: FinOps
+    url: finops/bwx-technologies-finops.yml
   - type: DomainSecurity
     url: security/bwx-technologies-domain-security.yml
   - type: LinkedIn
